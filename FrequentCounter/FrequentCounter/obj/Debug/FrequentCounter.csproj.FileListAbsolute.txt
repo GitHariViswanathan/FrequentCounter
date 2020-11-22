@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\FrequentCounter\FrequentCounter\bin\Debug\FrequentCounter.exe.config
+C:\Users\hp\source\repos\FrequentCounter\FrequentCounter\bin\Debug\FrequentCounter.exe
+C:\Users\hp\source\repos\FrequentCounter\FrequentCounter\bin\Debug\FrequentCounter.pdb
+C:\Users\hp\source\repos\FrequentCounter\FrequentCounter\obj\Debug\FrequentCounter.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\FrequentCounter\FrequentCounter\obj\Debug\FrequentCounter.exe
+C:\Users\hp\source\repos\FrequentCounter\FrequentCounter\obj\Debug\FrequentCounter.pdb
